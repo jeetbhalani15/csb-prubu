@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jeetbhalani15.github.io/csb-prubu/static/css/main.97260f4f.chunk.css",
+    "main.js": "https://jeetbhalani15.github.io/csb-prubu/static/js/main.00d51d37.chunk.js",
+    "main.js.map": "https://jeetbhalani15.github.io/csb-prubu/static/js/main.00d51d37.chunk.js.map",
+    "runtime-main.js": "https://jeetbhalani15.github.io/csb-prubu/static/js/runtime-main.859499d7.js",
+    "runtime-main.js.map": "https://jeetbhalani15.github.io/csb-prubu/static/js/runtime-main.859499d7.js.map",
+    "static/js/2.e16f0bb2.chunk.js": "https://jeetbhalani15.github.io/csb-prubu/static/js/2.e16f0bb2.chunk.js",
+    "static/js/2.e16f0bb2.chunk.js.map": "https://jeetbhalani15.github.io/csb-prubu/static/js/2.e16f0bb2.chunk.js.map",
+    "index.html": "https://jeetbhalani15.github.io/csb-prubu/index.html",
+    "static/css/main.97260f4f.chunk.css.map": "https://jeetbhalani15.github.io/csb-prubu/static/css/main.97260f4f.chunk.css.map",
+    "static/js/2.e16f0bb2.chunk.js.LICENSE.txt": "https://jeetbhalani15.github.io/csb-prubu/static/js/2.e16f0bb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859499d7.js",
+    "static/js/2.e16f0bb2.chunk.js",
+    "static/css/main.97260f4f.chunk.css",
+    "static/js/main.00d51d37.chunk.js"
+  ]
+}
